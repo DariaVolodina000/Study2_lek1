@@ -1,0 +1,15 @@
+C:\study\study2\C#\lek\lek1_001\bin\Debug\net6.0\lek1_001.exe
+C:\study\study2\C#\lek\lek1_001\bin\Debug\net6.0\lek1_001.deps.json
+C:\study\study2\C#\lek\lek1_001\bin\Debug\net6.0\lek1_001.runtimeconfig.json
+C:\study\study2\C#\lek\lek1_001\bin\Debug\net6.0\lek1_001.dll
+C:\study\study2\C#\lek\lek1_001\bin\Debug\net6.0\lek1_001.pdb
+C:\study\study2\C#\lek\lek1_001\obj\Debug\net6.0\lek1_001.csproj.AssemblyReference.cache
+C:\study\study2\C#\lek\lek1_001\obj\Debug\net6.0\lek1_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\study2\C#\lek\lek1_001\obj\Debug\net6.0\lek1_001.AssemblyInfoInputs.cache
+C:\study\study2\C#\lek\lek1_001\obj\Debug\net6.0\lek1_001.AssemblyInfo.cs
+C:\study\study2\C#\lek\lek1_001\obj\Debug\net6.0\lek1_001.csproj.CoreCompileInputs.cache
+C:\study\study2\C#\lek\lek1_001\obj\Debug\net6.0\lek1_001.dll
+C:\study\study2\C#\lek\lek1_001\obj\Debug\net6.0\refint\lek1_001.dll
+C:\study\study2\C#\lek\lek1_001\obj\Debug\net6.0\lek1_001.pdb
+C:\study\study2\C#\lek\lek1_001\obj\Debug\net6.0\lek1_001.genruntimeconfig.cache
+C:\study\study2\C#\lek\lek1_001\obj\Debug\net6.0\ref\lek1_001.dll
